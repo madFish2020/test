@@ -1,0 +1,185 @@
+.logo{
+    width: 20%;
+    height: 20%;
+}
+.navlist{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-evenly;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nav-link{
+    padding-top: 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: 'Raleway',sans-serif;
+}
+.hero{
+    margin-bottom: 160px;
+}
+.hero-text{
+    margin-left: 100px;
+}
+.intro{
+    margin-top: -35px;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+}
+.body{
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-size: 24px;
+   
+}
+.hero-img{
+    float: right;
+    height: 20%;
+    width: 20%;
+    padding-right: 60px;
+
+}
+button{
+    margin-top: 30px;
+    background-color: #D12C23;
+    border: none;
+    width: 400px;
+    height: 72px;
+    border-radius: 60px;
+}
+.button-text{
+    font-family: 'Raleway', sans-serif;
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+}
+.WID{
+    display: flex;
+    padding-right: 35px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+h2{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #f3603A;
+    font-size: 40px;
+}
+.card{
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.inter-design{
+    margin-top:20px;
+}
+.info-arch{
+    margin-top: 20px;
+}
+h3{
+    font-family: 'Raleway',sans-serif;
+    font-size: 28px;
+}
+p{
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-size: 20px;
+    margin-top: -20px;
+}
+.work{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+/*Contact Page Extras*/
+.page-title{
+    color: #f3603A;
+    text-align: center;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.method{
+    text-align: center;
+    align-items: center;
+    height: 300px;
+    width: 370px;
+    border-radius: 16px;
+}
+.phone{
+    background-color: #D12C23;
+}
+.email{
+    background-color: #f3603A;
+}
+.Linkedin{
+    background-color: #FE8D7B;
+}
+.contact-bottom{
+    margin-top: 40px;
+}
+.contact-header{
+    color: white;
+}
+.contact-text{
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-size: 24px;
+    color: white;
+  
+}
+.contact-link{
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+.contact-bottom3{
+    margin-top: 20px;
+}
+/*About Page Extras*/
+.Aboutme{
+    margin-left: 80px;
+}
+.about-text{
+ 
+    margin-bottom: 40px;
+}
+.about-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+/*Resume Page Extras*/
+.Download{
+       display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.resume-skills{
+    margin-left: 30px;
+}
+.download-button{
+    text-align: center;
+}
+/*Dual Nature Extras*/
+.mission{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.problem{
+    clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
